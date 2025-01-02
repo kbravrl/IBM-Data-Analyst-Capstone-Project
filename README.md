@@ -1,11 +1,11 @@
 # IBM-Data-Analyst-Capstone-Project
 
-## Project Objective
-In this project, you have been hired as a Data Analyst by a global IT and business consulting services firm known for its expertise in IT solutions and its team of highly experienced IT consultants.
-To keep up with changing technologies and stay competitive, the organization regularly conducts data analysis to help identify future skill requirements.
-As a Data Analyst, you will assist with this initiative and are tasked with collecting data from various sources to identify trends for this year's report on emerging skills.
-Your first task is to gather the most in-demand programming skills from various sources, including job postings, education portals, and surveys.
+## Proje Amacı
+Bu projede, BT çözümlerindeki uzmanlığı ve son derece deneyimli BT danışmanlarından oluşan ekibiyle tanınan küresel bir BT ve iş danışmanlığı hizmetleri firması tarafından Veri Analisti olarak işe alındınız.
+Değişen teknolojilere ayak uydurmak ve rekabetçi kalmak için, kuruluş gelecekteki beceri gereksinimlerini belirlemeye yardımcı olmak için düzenli olarak veri analizi yapar.
+Bir Veri Analisti olarak, bu girişimde yardımcı olacaksınız ve bu yılki ortaya çıkan beceriler raporu için eğilimleri belirlemek üzere çeşitli kaynaklardan veri toplamakla görevlendirileceksiniz.
+İlk göreviniz, iş ilanları, eğitim portalları ve anketler dahil olmak üzere çeşitli kaynaklardan en çok talep gören programlama becerilerini toplamaktır.
 
-## Project Description
-Throughout this course, you will apply various Data Analytics skills and techniques that you have learned as part of the IBM Data Analyst Professional Certificate program.
-You will assume the role of an Associate Data Analyst who has recently joined the organization and will be faced with a business challenge that requires data analysis on real-world datasets.
+## Proje Açıklaması
+Bu kurs boyunca, IBM Veri Analisti Profesyonel Sertifika programının bir parçası olarak öğrendiğiniz çeşitli Veri Analitiği becerilerini ve tekniklerini uygulayacaksınız.
+Kuruluşa yakın zamanda katılan ve gerçek dünya veri kümeleri üzerinde veri analizi gerektiren bir iş zorluğuyla karşı karşıya kalacak bir Ortak Veri Analisti rolünü üstleneceksiniz.
